@@ -1,6 +1,6 @@
 # 🌿 Hi everyone, I'm Lan Anh!
 
-A biologist by training, I went on to complete a **PhD in Biology at Ghent University (UGent)**. While working with biological data during my research, I became increasingly interested in coding, statistics, and data science. That interest led me to pursue an **MSc in Statistical Data Analysis, also at UGent**.
+A biologist by training, with a **PhD in Biology at Ghent University**. While working with biological data during my research, I became increasingly interested in coding, statistics, and data science. That interest led me to pursue an **MSc in Statistical Data Analysis, also at UGent**.
 
 I'm still learning and enjoy picking up new tools along the way. These days, I'm focusing on improving my programming and analytical skills and exploring how they can be applied to questions in biology, the environment, and human health.
 
@@ -18,7 +18,7 @@ Most of my coding experience comes from learning by doing: working with real res
 `scRNA-seq` · `Community Detection` · `Microbiome` · `QIIME2` · `phyloseq` · `Seurat` · `Phylogenetics`
 
 **Statistics**  
-`Statistical Modelling` · `Survival Analysis` · `Longitudinal Data` · `Psychometrics` · `Data Visualization`
+`Statistical Modelling` · `Survival Analysis` · `Psychometrics` · `Data Visualization`
 
 **Currently developing**  
 `Git/GitHub` · `SQL` · `Machine Learning` · `AI Engineering`
@@ -42,9 +42,9 @@ Most of my coding experience comes from learning by doing: working with real res
 
 I'm keen to keep expanding my skills and try out new applications of data science. Some areas I'm currently interested in are:
 
-- 🤖 **Machine Learning & AI Engineering** — learning more about predictive models, AI tools, and how to build practical, reproducible workflows.
-- 🦠 **Infectious Disease & Health Data** — exploring epidemiological data analysis, surveillance, and forecasting.
 - 🌍 **Environmental Exposure & Human Health** — connecting environmental measurements and biological responses with health-related questions.
+- 🦠 **Infectious Disease & Health Data** — exploring epidemiological data analysis, surveillance, and forecasting.
+- 🤖 **Machine Learning & AI Engineering** — learning more about predictive models, AI tools, and how to build practical, reproducible workflows.
 - 📈 **Data Visualization & Communication** — finding clearer and more engaging ways to present analytical results.
 - 🔧 **Open & Reproducible Research** — improving my Git/GitHub workflow and sharing well-documented code.
 
@@ -80,17 +80,6 @@ A developing Python toolkit for formatting biological sequence records and suppo
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-
-### 📚 [R for Data Science — Vietnamese](https://github.com/tranlananh106/r4ds-vn)
-
-**Open educational materials**
-
-Repository for a Vietnamese-language R for Data Science translation project.
-
-`R` `Open learning` `Documentation`
-
-</td>
 <td width="50%" valign="top">
 
 ### 📊 Applied statistical analysis
