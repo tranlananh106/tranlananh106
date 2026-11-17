@@ -36,8 +36,7 @@ Most of my coding experience comes from learning by doing: working with real res
 
 3. **Research Scripts & Data Workflows** 💻  
    I enjoy writing small scripts that make research tasks easier and less repetitive.
-   - [Ulva GenBank Toolkit](https://github.com/tranlananh106/ulva-genbank-toolkit) — a new repository for Python utilities to prepare and format sequence records for GenBank submission. *In development.*
-   - [R for Data Science — Vietnamese](https://github.com/tranlananh106/r4ds-vn) — materials from a Vietnamese translation project for the R for Data Science book.
+   - [Ulva GenBank Toolkit](https://github.com/tranlananh106/ulva-genbank-toolkit) — a repository for Python utilities to prepare and format sequence records for GenBank submission. *In development.*
 
 ## What I'm Learning & Exploring 🌱
 
