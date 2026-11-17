@@ -8,14 +8,80 @@ I'm still learning and enjoy picking up new tools along the way. These days, I'm
 
 Most of my coding experience comes from learning by doing: working with real research datasets, troubleshooting analyses, and adapting existing tools to new questions.
 
-**Programming & data analysis**  
-`R` `Python` `Bash` `Linux` `Data Visualization` `Statistical Modelling`
+**Programming & data analysis**
+
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-333333?style=flat-square&logo=linux&logoColor=white)
 
 **Scientific computing & bioinformatics**  
-`scRNA-seq` `Community Detection` `Microbiome` `QIIME2` `phyloseq` `Seurat` `Phylogenetics`
+`scRNA-seq` · `Community Detection` · `Microbiome` · `QIIME2` · `phyloseq` · `Seurat` · `Phylogenetics`
+
+**Statistics**  
+`Statistical Modelling` · `Survival Analysis` · `Longitudinal Data` · `Psychometrics` · `Data Visualization`
 
 **Currently developing**  
-`Git/GitHub` `SQL` `Machine Learning` `AI Engineering`
+`Git/GitHub` · `SQL` · `Machine Learning` · `AI Engineering`
+
+## Featured Projects 🔬
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧬 Single-cell RNA-seq clustering
+
+**Benchmarking community detection methods**
+
+Compared clustering methods for single-cell transcriptomic datasets, focusing on agreement with reference labels, stability, and computational performance.
+
+`R` `scRNA-seq` `Clustering`
+
+*Code and documentation being prepared for GitHub.*
+
+</td>
+<td width="50%" valign="top">
+
+### 🧪 [Ulva GenBank Toolkit](https://github.com/tranlananh106/ulva-genbank-toolkit)
+
+**Sequence-data preparation utilities**
+
+A developing Python toolkit for formatting biological sequence records and supporting GenBank submission workflows.
+
+`Python` `Sequence data` `Data formatting`
+
+*In development — repository not yet populated.*
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📚 [R for Data Science — Vietnamese](https://github.com/tranlananh106/r4ds-vn)
+
+**Open educational materials**
+
+Repository for a Vietnamese-language R for Data Science translation project.
+
+`R` `Open learning` `Documentation`
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 Applied statistical analysis
+
+**Clinical outcomes & questionnaire data**
+
+Experience with survival outcomes, repeated measurements, and psychometric validation in statistical consulting work.
+
+`R` `Survival analysis` `Psychometrics`
+
+*No confidential project data or code shared.*
+
+</td>
+</tr>
+</table>
 
 ## What I Do 🎯
 
