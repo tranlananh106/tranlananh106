@@ -1,69 +1,129 @@
 <div align="center">
 
-# 👋 Hi, I'm Lan Anh!
+# Lan Anh Tran
 
-**Quantitative Biologist | PhD in Biology · MSc in Statistical Data Analysis**
+**Quantitative Biology · Applied Statistics · Bioinformatics**
 
-*Connecting biological research, statistics, and computational methods to understand complex data.*
+PhD in Biology | MSc in Statistical Data Analysis  
+Ghent University, Belgium
+
+*Using data and computational methods to understand biological systems and support evidence-based research.*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lan-anh-tran-28b25994/)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Publications-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=As5kxHMAAAAJ&hl=en&authuser=1)
 
 </div>
 
-## 🌿 About Me
+---
 
-I'm a quantitative biologist trained at **Ghent University, Belgium**, with experience spanning molecular biology, bioinformatics, environmental research, and applied statistics.
+## About me
 
-I enjoy building reproducible workflows, working with complex biological datasets, and translating analytical results into meaningful scientific insights. I'm currently expanding my work toward **environmental health, public health, and biomedical data science**.
+I'm a quantitative biologist with a background in **molecular biology, environmental research, bioinformatics, and statistical data analysis**. My research has involved biological sequence data, single-cell transcriptomics, microbiome analysis, and applied statistical modelling.
 
-## 🛠️ Skills & Tools
+I enjoy turning complex datasets into reproducible analyses and interpretable results. I'm now broadening my work toward **biomedical data science, public health, and environmental health**, while developing new skills in machine learning and AI engineering.
 
-**Programming & reproducibility**  
-`R` `Python` `SQL` `Bash` `Linux` `Git` `Quarto`
+## Technical toolkit
 
-**Statistics & data analysis**  
-`Statistical modelling` `Survival analysis` `Longitudinal data` `Multivariate analysis` `Psychometrics` `Data visualization`
+**Programming & reproducible workflows**
 
-**Bioinformatics**  
-`scRNA-seq` `Community detection` `Microbiome analysis` `QIIME2` `phyloseq` `Seurat` `Phylogenetics`
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-333333?style=flat-square&logo=linux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Quarto](https://img.shields.io/badge/Quarto-39729E?style=flat-square&logo=quarto&logoColor=white)
 
-## 🔬 Research & Coding Projects
+**Statistical methods**
 
-### 🧬 Single-cell RNA-seq clustering benchmark
+`Statistical modelling` · `Survival analysis` · `Longitudinal data` · `Multivariate analysis` · `Psychometrics` · `Data visualization`
 
-A benchmarking study of community detection algorithms for single-cell RNA-seq data, comparing clustering performance, stability, and computational efficiency.  
-*Repository and documentation in preparation.*
+**Computational biology**
+
+`scRNA-seq` · `Community detection` · `Microbiome analysis` · `QIIME2` · `phyloseq` · `Seurat` · `Phylogenetics`
+
+## Selected projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧬 Single-cell RNA-seq clustering
+
+**Benchmarking community detection methods**
+
+Compared clustering methods for single-cell transcriptomic datasets, focusing on agreement with reference labels, stability, and computational performance.
+
+`R` `scRNA-seq` `Clustering`
+
+*Code and documentation being prepared for GitHub.*
+
+</td>
+<td width="50%" valign="top">
 
 ### 🧪 [Ulva GenBank Toolkit](https://github.com/tranlananh106/ulva-genbank-toolkit)
 
-Developing Python utilities for preparing and formatting biological sequence data for GenBank submission.  
-*In development.*
+**Sequence-data preparation utilities**
+
+A developing Python toolkit for formatting biological sequence records and supporting GenBank submission workflows.
+
+`Python` `Sequence data` `Data formatting`
+
+*In development — repository not yet populated.*
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 📚 [R for Data Science — Vietnamese](https://github.com/tranlananh106/r4ds-vn)
 
-Materials from a Vietnamese-language R for Data Science translation project.
+**Open educational materials**
 
-## 📊 Areas of Experience
+Repository for a Vietnamese-language R for Data Science translation project.
 
-- Statistical analysis of clinical outcomes, survival data, and questionnaires
-- Single-cell transcriptomics and clustering benchmarks
-- Microbiome community analysis and ecological statistics
-- Molecular taxonomy, sequence analysis, and phylogenetics
-- Environmental contamination and biological responses
+`R` `Open learning` `Documentation`
 
-## 🌱 Currently Exploring
+</td>
+<td width="50%" valign="top">
 
-- Infectious disease surveillance and forecasting
-- Environmental exposure, toxicogenomics, and human health
-- Translational bioinformatics and biomedical data science
-- Open science and reproducible analytical workflows
+### 📊 Applied statistical analysis
 
-## 🤝 Let's Connect
+**Clinical outcomes & questionnaire data**
 
-I'm interested in interdisciplinary collaborations connecting **biology, statistics, and health research**.
+Experience with survival outcomes, repeated measurements, and psychometric validation in statistical consulting work.
+
+`R` `Survival analysis` `Psychometrics`
+
+*No confidential project data or code shared.*
+
+</td>
+</tr>
+</table>
+
+## Research experience
+
+- **Applied statistics:** clinical outcomes, survival analysis, longitudinal data, and questionnaire validation
+- **Computational biology:** scRNA-seq clustering benchmarks and microbial community analysis
+- **Molecular and environmental biology:** sequence analysis, phylogenetics, and environmental contamination studies
+- **Reproducibility:** analytical scripting, data processing, and scientific reporting
+
+## Currently exploring & learning
+
+- **Machine learning & AI engineering:** predictive modelling, ML workflows, and practical foundations of AI application development and deployment
+- **Biomedical AI & translational bioinformatics:** computational approaches to biological and health data
+- **Infectious disease analytics:** surveillance, epidemiological modelling, and forecasting
+- **Environmental exposure & human health:** connecting environmental measurements, molecular responses, and health outcomes
+- **Open science:** reusable code, transparent methods, and reproducible research
+
+> My interests in ML and AI engineering are areas of active learning and development, building on an existing foundation in statistics and biological data analysis.
+
+## Connect
+
+I'm open to interdisciplinary conversations and collaborations at the intersection of **biology, statistics, data science, and health research**.
 
 [LinkedIn](https://www.linkedin.com/in/lan-anh-tran-28b25994/) · [Google Scholar](https://scholar.google.com/citations?user=As5kxHMAAAAJ&hl=en&authuser=1)
 
 ---
 
-<div align="center">
-<sub>Thanks for visiting! 🌱</sub>
-</div>
+<div align="center"><sub>Thanks for visiting! 🌱</sub></div>
