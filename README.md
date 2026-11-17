@@ -1,8 +1,8 @@
 # 🌿 Hi everyone, I'm Lan Anh!
 
-A biologist by training, I became interested in coding and statistics while working with biological data during my research. What started with analysing my own datasets has grown into a broader interest in data analysis, visualization, and computational methods.
+A biologist by training, I went on to complete a **PhD in Biology at Ghent University (UGent)**. While working with biological data during my research, I became increasingly interested in coding, statistics, and data science. That interest led me to pursue an **MSc in Statistical Data Analysis, also at UGent**.
 
-I'm still learning and enjoy picking up new tools along the way. These days, I'm working on improving my programming and analytical skills and exploring how they can be applied to questions in biology, the environment, and human health.
+I'm still learning and enjoy picking up new tools along the way. These days, I'm focusing on improving my programming and analytical skills and exploring how they can be applied to questions in biology, the environment, and human health.
 
 ## My Skills 🛠️
 
