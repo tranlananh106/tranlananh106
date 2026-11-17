@@ -12,7 +12,7 @@
 
 I'm a quantitative biologist trained at **Ghent University, Belgium**, with experience spanning molecular biology, bioinformatics, environmental research, and applied statistics.
 
-I enjoy building reproducible workflows, working with complex biological datasets, and translating analytical results into meaningful scientific insights. I'm currently expanding my work toward **biomedical data science, public health, and environmental health**.
+I enjoy building reproducible workflows, working with complex biological datasets, and translating analytical results into meaningful scientific insights. I'm currently expanding my work toward **environmental health, public health, and biomedical data science**.
 
 ## 🛠️ Skills & Tools
 
