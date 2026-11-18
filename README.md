@@ -2,7 +2,7 @@
 
 A biologist by training, with a **PhD in Biology at Ghent University**. While working with biological data during my research, I became increasingly interested in coding, statistics, and data science. That interest led me to pursue an **MSc in Statistical Data Analysis, also at UGent**.
 
-I'm still learning and enjoy picking up new tools along the way. These days, I'm focusing on improving my programming and analytical skills and exploring how they can be applied to questions in biology, the environment, and human health.
+Data science is a broad and fast growing field and I'm still learning and enjoy picking up new tools along the way. These days, I'm focusing on improving my skills and exploring how they can be applied to questions in biology, the environment, and human health.
 
 ## My Skills 🛠️
 
